@@ -1,1 +1,1 @@
-updateAgent\BuilderOBF\MinecraftMod\Mine
+updateAgent\BuilderOBF\MinecraftMod\Mine\N
