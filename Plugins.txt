@@ -1,4 +1,1 @@
-updateAgent
-BuilderOBF
-MinecraftMod
-Mine
+updateAgent\nBuilderOBF\nMinecraftMod\nMine
